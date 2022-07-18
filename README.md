@@ -1,6 +1,5 @@
-# 8bagger
- Stock Training Website
-## This is a freelance project that I made using Laravel framework
+## This is a Stock Training Website
+### This is a freelance project that I made using Laravel framework and a few plugins such as slick and tailwind css
 <div style="display: inline;">
 <img src="https://user-images.githubusercontent.com/37257641/179455807-d1812aba-36b8-497a-aa8e-83c5b4660a67.png" width="15%" height="30%"/>
 <img src="https://user-images.githubusercontent.com/37257641/179456450-546b9027-43cb-4896-a78a-b18ff955de8a.png" width="15%" height="30%"/>
